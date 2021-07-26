@@ -1,3 +1,3 @@
-# test2  
+# test  
 This is a test repository.    
 …です。
